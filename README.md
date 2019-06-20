@@ -6,7 +6,7 @@ STEPS:
 
 Install dependencies: PyGithub and pyyaml
 
-Add your Github access token and organization name within the script
+Add your Github access token (line 11) and organization name (line 18) within the script
 
 Copy the most recent membership.yaml file and place it in the same folder as compare.py
 
