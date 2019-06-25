@@ -1,5 +1,5 @@
 # yaml-compare
-Python script to compare Github members with a membership.yaml file
+Python script to compare Github members/repos with the YAML files that are used with Docker/TFE for Github organization administration so that anything missing from TFE can be imported.
 
 
 STEPS:
